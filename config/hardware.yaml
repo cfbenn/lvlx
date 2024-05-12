@@ -1,0 +1,6 @@
+#config_version=5
+# https://missionpinball.org/config/hardware/
+
+hardware:
+  platform: fast
+  driverboards: fast

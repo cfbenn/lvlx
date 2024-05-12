@@ -1,0 +1,6 @@
+#config_version=5
+# https://missionpinball.org/config/fast/
+
+fast:
+  ports: com3, com4, com5
+  default_normal_debounce_close: 10ms
