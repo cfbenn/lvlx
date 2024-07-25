@@ -1,0 +1,9 @@
+#config_version=6
+mode:
+  start_events: ball_starting
+  stop_events: ball_will_end
+  code: base.Base
+  priority: 100
+
+config:
+  - base_achievements.yaml
